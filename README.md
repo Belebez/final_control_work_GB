@@ -1,4 +1,4 @@
-Навигация по итоговой работе
+Навигация по [итоговой работе](https://github.com/Belebez/final_control_work_GB/blob/e218e3c256e026dd39a1a3c0b74d0de109f4e279/final_task.md)
 
 1. Решения 1-4 заданий находятся [здесь](https://github.com/Belebez/final_control_work_GB/blob/a38ae5c15835c56e7c0415f927c18ec7a22c0664/task_1-4/photo_2023-07-28_12-48-39.jpg)
 
