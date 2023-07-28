@@ -1,4 +1,4 @@
 # final_control_work_GB
 
-Список заданий находиться в final_task.md
+Список заданий находиться в [final_task.md](https://github.com/Belebez/final_control_work_GB/blob/cb87f987f37481841f1023a6e3ad701468d3493d/final_task.md)https://github.com/Belebez/final_control_work_GB/blob/cb87f987f37481841f1023a6e3ad701468d3493d/final_task.md
 
